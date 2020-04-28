@@ -1,0 +1,57 @@
+/*barra de navegação*/
+
+.navbar-transparente{
+	background: rgba(242, 242, 242,0.6);
+}
+
+html, body{
+	
+	
+}
+
+body{
+	
+	background: white;
+	
+}
+
+.navbar-toggler{
+	color: rgba(132,132,132, 0.5);
+	border-color: rgba(164,164,164,0.5);
+}
+
+.capa{
+	text-align: center;
+}
+
+.btn-custom{
+	color: white;
+	border-radius: 500px;
+	text-transform: uppercase;
+	transition: background 0.4s, color 0.4s;
+	padding: 10px 15px;
+}
+.btn-roxo{
+	background: rgba(100,100,245,0.6);
+	color: white;
+}
+.btn-roxo:hover{
+	background: #1616d9;
+	color: white;
+}
+#noticias{
+	margin-top:50px;
+}
+
+#noticias h1{
+	color: black;
+	font-size: 2em;
+}
+
+#beneficios li{
+	padding: 8px;
+	border-bottom: 1px solid #f3efcb;
+	height: 6em;
+
+}
+
