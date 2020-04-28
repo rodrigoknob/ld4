@@ -52,6 +52,29 @@ body{
 	padding: 8px;
 	border-bottom: 1px solid #f3efcb;
 	height: 6em;
+}
 
+footer{
+	background: #2E2E2E;
+	padding: 50px 0px 50px 0px;
+
+}
+footer a:hover{
+	text-decoration: none;
+	color: white;
+}
+header a:hover{
+	text-decoration: none;
+}
+header nav a:hover{
+	background: #0040FF;
+	color:white;
+	border-radius: 5px;
+}
+
+header .navbar ul li a:hover{
+	background: #0040FF;
+	color:white;
+	border-radius: 5px;
 }
 
